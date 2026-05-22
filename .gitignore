@@ -1,0 +1,25 @@
+node_modules
+dist
+.env
+.env.*
+*.log
+coverage
+.DS_Store
+
+# typescript
+*.tsbuildinfo
+
+# vscode
+.vscode
+
+# mac
+.DS_Store
+
+# docker
+docker-data
+
+# uploads
+uploads
+
+# build
+build
